@@ -1,7 +1,7 @@
 ### Hi, my name is Mateus Santos!! :wave:
 ### I'm a Dev Junior specializing in FullStack
 
-<p>Programmer in training. Enthusiastic about technology and passionate about solving</p>
+<p>Programmer in training. Technology enthusiast and passionate problem solver.</p>
 <div align="center">
   <a href="https://github.com/zNodx">
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zNodx&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
