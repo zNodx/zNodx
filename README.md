@@ -1,5 +1,5 @@
 ### Hi, my name is Mateus Santos!! :wave:
-### I'm a Dev Junior specializing in FullStack
+### I'm a Dev FullStack
 
 <p>Programmer in training. Technology enthusiast and passionate problem solver.</p>
 <div align="center">
